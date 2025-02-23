@@ -1,2 +1,2 @@
-# AI_Consusion_Matrix
+# AI Confusion Matrix
 Project Challenger from DIO for confusion Matrix in AI
